@@ -1,2 +1,2 @@
 # Donjon-POO
-Projet pour l'apprentissage de la programmation orientée objet en Java
+Projet ayant pour but l'apprentissage de la programmation orientée objet en Java.
