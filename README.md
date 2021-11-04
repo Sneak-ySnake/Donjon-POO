@@ -35,9 +35,9 @@ II. Fonctionnement du jeu :
     > - M : Monstre (le nombre à côté indique le nombre de monstres)
     > - -><- : Sortie
 
-2. Un menu qui sera affiché tout au long du parcours pour vous guider.
+2. Un menu est affiché tout au long du parcours pour vous guider.
 
 
 3. **NB:** 
     > - Le joueur n'est pas obligé d'utiliser les objets dans une salle, et peut aller directement vers la salle suivante.
-    > - En cas de présence de monstre dans une salle, le joueur ne peut allé dans la salle suivante que si le monstre est mort.
+    > - En cas de présence de monstre dans une salle, le joueur ne peut aller dans la salle suivante que si le monstre est mort.
